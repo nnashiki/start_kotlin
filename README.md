@@ -50,3 +50,7 @@ cat /Users/niten.nashiki/ghq/github.com/github/gitignore/Java.gitignore >> .giti
 # gradle を使った設定
 - https://medium.com/@deepak_v/kotlin-beginner-to-advance-build-real-command-line-tool-using-kotlinx-cli-608bbc6d9a3
 - https://tech-lab.sios.jp/archives/9500
+
+- 動いたやつ
+   - https://qiita.com/suin/items/96799c9f50a31ae54969
+   - https://qiita.com/suin/items/58f3f49e67677e62f217
