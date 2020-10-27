@@ -52,5 +52,8 @@ cat /Users/niten.nashiki/ghq/github.com/github/gitignore/Java.gitignore >> .giti
 - https://tech-lab.sios.jp/archives/9500
 
 - 動いたやつ
-   - https://qiita.com/suin/items/96799c9f50a31ae54969
-   - https://qiita.com/suin/items/58f3f49e67677e62f217
+    - https://qiita.com/suin/items/96799c9f50a31ae54969
+    - https://qiita.com/suin/items/58f3f49e67677e62f217
+
+- 公式を読もう
+    - https://docs.gradle.org/current/samples/sample_building_kotlin_applications.html
